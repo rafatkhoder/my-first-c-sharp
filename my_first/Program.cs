@@ -11,7 +11,11 @@ namespace my_first
         static void Main(string[] args)
         {
             // hello world
-            Console.WriteLine("hello my name is rafat");
+            // ben 
+            char name = 'a';
+            Console.WriteLine("hello my name is rafat"+name);
+            string myname = "rafat";
+            Console.WriteLine(name);
             Console.ReadKey();
         }
     }
