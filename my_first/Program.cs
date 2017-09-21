@@ -10,6 +10,7 @@ namespace my_first
     {
         static void Main(string[] args)
         {
+            // hello world
             Console.WriteLine("hello my name is rafat");
             Console.ReadKey();
         }
